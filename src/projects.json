@@ -1,0 +1,171 @@
+{
+    "info": [
+        {
+            "name_categories": "architecture",
+            "name_projects": [
+                {
+                   "name": "architecture1",
+                   "id": 1,
+                   "type": "civic + public" 
+                },
+
+                {
+                    "name": "architecture2",
+                    "id": 2,
+                    "type": "civic + public" 
+                },
+
+                {
+                    "name": "architecture3",
+                    "id": 3,
+                    "type": "education" 
+                },
+
+                {
+                    "name": "architecture4",
+                    "id": 4,
+                    "type": "mixed-used + multifamily" 
+                },
+                {
+                    "name": "architecture5",
+                    "id": 5,
+                    "type": "civic + public" 
+                },
+
+                {
+                    "name": "architecture6",
+                    "id": 6,
+                    "type": "education"
+                },
+
+                {
+                    "name": "architecture7",
+                    "id": 7,
+                    "type": "workplace" 
+                },
+
+                {
+                    "name": "architecture8",
+                    "id": 8,
+                    "type": "workplace" 
+                }
+            ]
+        },
+
+        {
+            "name_categories": "urban design",
+            "name_projects": [
+                {
+                   "name": "urban design1",
+                   "id": 9,
+                   "type": "residential" 
+                },
+
+                {
+                    "name": "urban design2",
+                    "id": 10,
+                    "type": "residential"
+                },
+
+                {
+                    "name": "urban design3",
+                    "id": 11,
+                    "type": "residential"
+                },
+
+                {
+                    "name": "urban design4",
+                    "id": 12,
+                    "type": "residential"
+                }
+            ]
+        },
+
+        {
+            "name_categories": "visual design",
+            "name_projects": [
+                {
+                   "name": "visual design1",
+                   "id": 13 
+                },
+
+                {
+                    "name": "visual design2",
+                    "id": 14
+                },
+
+                {
+                    "name": "visual design3",
+                    "id": 15 
+                },
+
+                {
+                    "name": "visual design4",
+                    "id": 16
+                }
+            ]
+        },
+
+        {
+            "name_categories": "interior design",
+            "name_projects": [
+                {
+                   "name": "interior design1",
+                   "id": 17,
+                   "type": "hospitality" 
+                },
+
+                {
+                    "name": "interior design2",
+                    "id": 18,
+                    "type": "commercial" 
+                },
+
+                {
+                    "name": "interior design3",
+                    "id": 19,
+                    "type": "commercial" 
+                },
+
+                {
+                    "name": "interior design4",
+                    "id": 20,
+                    "type": "Education" 
+                },
+
+                {
+                    "name": "interior design5",
+                    "id": 21,
+                    "type": "institutional" 
+                    
+                },
+
+                {
+                    "name": "interior design6",
+                    "id": 22,
+                    "type": "hospitality" 
+                },
+
+                {
+                    "name": "interior design3",
+                    "id": 23,
+                    "type": "commercial" 
+                },
+
+                {
+                    "name": "interior design3",
+                    "id": 24,
+                    "type": "commercial" 
+                },
+                {
+                    "name": "interior design10",
+                    "id": 25,
+                    "type": "institutional" 
+                    
+                }
+            ]
+        }
+
+
+    ]
+}

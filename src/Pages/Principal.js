@@ -77,7 +77,7 @@ const Principal = () => {
               <input onClick={btnArch} type="button" ref={inputRef} value="Architecture"/>
               <input onClick={btnUrb} type="button" value="Urban design"/>
               <input onClick={btnInte} type="button" value="Interior design"/>
-              <input value="Visual Design"/>
+              <input type="button" value="Visual Design"/>
             </div>
             <div className='principal-sect-filters principal-architecture' id="arch_" >
               <input onClick={handleOnChangeArch}  type="button" value="All projects"/>

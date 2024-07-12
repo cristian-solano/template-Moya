@@ -184,4 +184,26 @@
     .principal-projects {
         padding: 0 20px;
     }
+
+    .principal-banner h1 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 608px) {
+    .principal-sec-text p {
+        text-align: center;
+    }
+
+    .principal-content-filters {
+        flex-direction: column;
+        align-items: center;
+    }
+    .principal-projects-content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .principal-projects {
+        padding: 0 15px;
+    }
 }

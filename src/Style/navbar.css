@@ -118,3 +118,20 @@
 .menu-icons img {
     width: 20px;
 }
+
+
+@media (max-width: 768px) {
+    .navbar-container {
+        padding: 15px;
+    }
+
+    .menu-content {
+        width: 40%;
+    }
+}
+
+@media (max-width:475px) {
+    .menu-content {
+        width: 90%;
+    }
+}

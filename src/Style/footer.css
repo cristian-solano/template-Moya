@@ -85,3 +85,14 @@
         gap: 30px;
     }
 }
+
+@media (max-width: 768px) {
+    .footer-logo p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .footer-social-icons img {
+        width: 20px;
+    }
+}
